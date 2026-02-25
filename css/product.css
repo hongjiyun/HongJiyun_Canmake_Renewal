@@ -188,6 +188,11 @@ font-weight: 500;
 
 }
 
+.number_pagination a {
+  color: #333;        
+  text-decoration: none;
+}
+
 .page-link {
   text-decoration: none;
   padding: 5px 10px;
@@ -197,6 +202,8 @@ font-weight: 500;
 .page-link.active {
   color: #E52AA7;
 }
+
+
 
 
 
